@@ -85,6 +85,7 @@ AsesorFutBot was a Telegram-based subscription service giving users access to pr
 
 Stack
 LayerTechnologyBot interfacePython, python-telegram-botML modelsscikit-learn, XGBoost, pandas, numpyProbabilisticCustom Poisson + Monte Carlo (numpy)Data storageSQLite + flat file store per leagueDeploymentLinux VPS, long-pollingOdds dataWeb scraping + public API aggregation
+machine-learning  python  telegram-bot  sports-analytics  xgboost  poisson  monte-carlo  saas SQL for users database management and payments
 
 👤 About
 Built by Humberto G. Estrada
