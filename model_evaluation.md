@@ -131,6 +131,7 @@ All 30+ alternative markets (Over/Under thresholds, BTTS, team-specific goal lin
 
 ## Known Limitations
 
+
 **No live data** — models use only pre-match features. In-game events (red cards, injuries) are not incorporated.
 
 **Transfer lag** — a team that signed key players mid-season won't reflect that in rolling form windows until sufficient post-transfer matches have been played.
@@ -138,3 +139,9 @@ All 30+ alternative markets (Over/Under thresholds, BTTS, team-specific goal lin
 **Small-sample leagues** — leagues with fewer than 200 historical matches are underrepresented; model confidence is lower for those competitions.
 
 **Draw prediction** — systematically harder across all configurations, consistent with the broader literature.
+
+
+
+[Evidencia_Exito_FutbolBot.xlsx](https://github.com/user-attachments/files/26444015/Evidencia_Exito_FutbolBot.xlsx)
+
+Algunas de las ultimas predcciones hechas con el bot y los modelos propios.
